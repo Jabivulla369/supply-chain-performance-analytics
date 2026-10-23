@@ -12,8 +12,8 @@ Executive Overview Landing Page
 
 
 
-Replace the image placeholder above with your actual screenshot link (<img width="1536" height="942" alt="Landing page" src="https://github.com/user-attachments/assets/a93e0568-5423-417c-a5e5-4efc26bb7571" />
-).
+<img width="1536" height="942" alt="Landing page" src="https://github.com/user-attachments/assets/a93e0568-5423-417c-a5e5-4efc26bb7571" />
+
 
 🔑 Key Features & Core Insights
 
